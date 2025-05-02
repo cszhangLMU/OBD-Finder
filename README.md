@@ -228,21 +228,6 @@ folder1/
 python Siamese-pytorch/predict.py
 ```
 
-<div align="center">
-
-### Similarity grading standards
-
-| Grade | Similarity Range |        Description        |
-| :---: | :--------------: | :-----------------------: |
-|   A   |       ≥90%       |      Highly similar       |
-|   B   |     80%-90%      | Medium to high similarity |
-|   C   |     70%-80%      |    Moderate similarity    |
-|   D   |       ≥60%       |   Reference similarity    |
-
-</div>
-
-
-
 
 ------
 
