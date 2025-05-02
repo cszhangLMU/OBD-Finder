@@ -21,7 +21,7 @@ We conduct extensive experiments on a large dataset of OB copies, and compare ou
 
 **Framework.** As can be seen from Figure 1, we propose a progressive coarse-to-fine Oracle Bone duplicate discovery framework, namely OBD-Finder, which combines unsupervised low-level keypoint matching with high-level, character-centric content-based image matching. Keypoint matching operates at low-level visual feature scale, which can prune out candidates with low degree of match in the initial stage, but lacks explicit semantic supervision and interpretability. Our framework bridges this gap by first grouping the keypoints based on their association with the character regions, then assesses the global matching degree between the two groups of keypoints via character-level visual content similarity computation. This dual matching mechanism enhances Oracle Bone duplicates discovery accuracy through a progressive coarse-to-fine refinement manner, by effectively and seamlessly integrating both low-level keypoint and high-level character-based semantic cues, resulting in more accurate and semantic-aware image matching. 
 
-<div align="center"> <img src="images/1.png" width="80%" alt="Framework Architecture"> <br> <em>Proposed coarse-to-fine framework workflow</em> </div>
+<div align="center"> <img src="images/1.png" width="80%" alt="Framework Architecture"> <br> <em>Figure 1. The overall framework of OBD-Finder for Oracle Bone duplicates discovery.</em> </div>
 
 ------
 
