@@ -119,9 +119,9 @@ The new Oracle Bone Duplicates results discovered by our method can be accessed 
 
 Here are 20 representative set of new school achievements
 
-<div align="center"> <img src="images/4.png" width="80%" alt="Framework Architecture"> <br> <em>real results1</em> </div>
+<div align="center"> <img src="images/4.png" width="80%" alt="Framework Architecture"> <br> <em>Figure 4. New Oracle Bone duplicates disovered by OBD-Finder (1).</em> </div>
 
-<div align="center"> <img src="images/5.png" width="80%" alt="Framework Architecture"> <br> <em>real result2</em> </div>
+<div align="center"> <img src="images/5.png" width="80%" alt="Framework Architecture"> <br> <em>Figure 5. New Oracle Bone duplicates disovered by OBD-Finder (1).</em> </div>
 
 
 
