@@ -109,7 +109,7 @@ Our framework consists of four  subsequent steps:
 
 </div>
 
-<div align="center"> <img src="images/3.png" width="80%" alt="Framework Architecture"> <br> <em>Image retrieval comparison results</em> </div>
+<div align="center"> <img src="images/3.png" width="80%" alt="Framework Architecture"> <br> <em>Figure 2. Representative image matching results by different methods. </em> </div>
 
 ### Real-world Deployment: Over 60 Pairs of New Oracle Bone Duplicates Disovered
 
