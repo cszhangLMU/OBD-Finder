@@ -131,9 +131,9 @@ The following are 20 pairs of new Oracle Bone Duplicates discovered by OBD-Finde
 
 ## 📥 Data & Models
 
-Download sample data and pretrained weights:
-[![Dataset](https://img.shields.io/badge/Download-Data%2520&%2520Models-blue)](https://drive.google.com/drive/folders/1fgnLoOdRNXDf38GXDb5NZbh8nfeLtgNb)
+Download our models and sample dataset:
 
+[Models and sample dataset of this work](https://drive.google.com/drive/folders/1fgnLoOdRNXDf38GXDb5NZbh8nfeLtgNb)
 
 ## Usage Instructions
 
