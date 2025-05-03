@@ -2,6 +2,8 @@
 
 ## Presentation and Demostration Video
 
+[Illustration and Demonstration Video of OBD-Finder](https://www.youtube.com/watch?v=5QT4f0YIo0Q)
+
 [![AI-enabled Oracle Bone Duplicates Discovery](https://img.youtube.com/vi/5QT4f0YIo0Q/0.jpg)](https://www.youtube.com/watch?v=5QT4f0YIo0Q)
 
 ## Introduction
