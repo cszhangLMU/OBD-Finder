@@ -1,6 +1,9 @@
 # OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery
 
-[![AI-enabled Oracle Bone Duplicates Discovery](https://img.youtube.com/vi/5QT4f0YIo0Q/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=5QT4f0YIo0Q))
+## Presentation and Demostration Video of OBD-Finder
+
+[![AI-enabled Oracle Bone Duplicates Discovery](https://img.youtube.com/vi/5QT4f0YIo0Q/0.jpg)](https://www.youtube.com/watch?v=5QT4f0YIo0Q)
+
 ## Introduction
 
 Oracle Bone inscriptions (OBIs) were used in the late Shang Dynasty more than 3000 years ago for divination and recording purposes. But from then on, these Oracle Bones (OBs) had been buried underground for thousands of years, until they were rediscovered in 1899 for containing inscribed ancient Chinese characters, which were named "Oracle Bone inscriptions". Due to drilling and burning before and during divination, and the long-term underground corrosion, as well as excavation, transportation, and circulation after their excavation, about 90% of the OBs have been fragmented and are now scattered in different collections around the world.
