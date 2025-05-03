@@ -1,6 +1,6 @@
 # OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery
 
-## Presentation and Demostration Video of OBD-Finder
+## Presentation and Demostration Video
 
 [![AI-enabled Oracle Bone Duplicates Discovery](https://img.youtube.com/vi/5QT4f0YIo0Q/0.jpg)](https://www.youtube.com/watch?v=5QT4f0YIo0Q)
 
@@ -119,9 +119,9 @@ Our framework consists of four  subsequent steps:
 
 The new Oracle Bone Duplicates results discovered by our method can be accessed via the following link:
 
-[OBD-Finder Data on Baidu Cloud](https://pan.baidu.com/s/1HYmJ9XHwO8_Zsm2TdBTZVg) Password: v099
+[New Oracle Bone Duplicated Discovered by OBD-Finder](https://drive.google.com/drive/folders/1lx3sSGg-W1x7WTHc_K5cQh_cCwtTzf4F) 
 
-Here are 20 representative set of new school achievements
+The following are 20 pairs of new Oracle Bone Duplicates discovered by OBD-Finder:
 
 <div align="center"> <img src="images/4.png" width="80%" alt="Framework Architecture"> <br> <em>Figure 4. New Oracle Bone duplicates disovered by OBD-Finder (1).</em> </div>
 
