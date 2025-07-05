@@ -31,6 +31,8 @@ With this new collection at hand, in this work we aim to devise a comprehensive 
 
 Contributions. To our knowledge, this work is among the first technical efforts that investigate AI-enabled Oracle Bone duplicates discovery. We design OBD-Finder, an explainable coarse-to-fine text-centric Oracle Bone duplicates discovery framework that successively utilizes unsupervised low-level key feature points matching and high-level content/character similarity for ranking the OB duplicate candidates. We have deployed our model in real-world applications, where we have successfully identified 63 pairs of new Oracle Bone duplicates, which have been verified by OBI community. Figure 2 presents three groups of new OB duplicates discovered by our model.
 
+![Figure 2: Ten groups of new Oracle Bone duplicates discovered by our OBD-Finder model.](./case-10.png)
+
 We also conduct extensive experiments on a large dataset of OB copies.  We compare our model with state-of-the-art CBIR and image matching methods, showing that our model achieves Top-K recall performance comparable to state-of-the-art methods, but with significantly accelerated computational efficiency and substantially reduced GPU memory consumption.  Our model also attains the highest simplified mean reciprocal rank scores for both Top-5 and Top-15 retrieval results, demonstrating that it excels at prioritizing correct matches. 
 
 ------
