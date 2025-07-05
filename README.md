@@ -24,7 +24,7 @@ As precious cultural relics, many Oracle Bones were circulated among various col
 
 ![Figure 1: Three groups of new Oracle Bone duplicates discovered by our model, which have been missed by domain experts for decades. For each group of duplicate, we provide both the manual copies and rubbings of the Oracle Bones. We can see that, finding Oracle Bone duplicate is similarity-based matching, rather than exact matching, and there exists both one-to-one (e.g.the bottom left pair) and one-to-many matchings (e.g.the top left pair and the right pair). Note that, in our implementation, we only use the manual copies of the Oracle Bones.](./case-3.png)
 
-Oracle Bone Inscription is carved writing, its main research materials and  publication formats are rubbings and manual copies. For  rubbing materials,  people place papers onto the surface of the Oracle Bones, then use Rubbing (with inks) to copy the carved inscriptions. Domain experts can also reproduce (copy) the carved inscriptions by hand, which is named Manual Oracle Bone Inscriptions Copy, referred to as OB manual copies for short. Figure 1  presents examples for both formats, which are actually cases of the new OB duplicates discovered by our model. Comparing the two formats,  manual OBI copies rely on domain knowledge but has no background noises, whereas OBI rubbings often contains substantial noise disturbance, although domain knowledge is not required. Both formats can keep the original sizes of the Oracle Bones, which is not possible when using cameras.  In 2022, the largest collection of manual OBI copies was published, for which a large team of OBI researchers invested 10 years to create high-quality manual OBI copies for around 60,000 OBs.
+Oracle Bone Inscription is carved writing, its main research materials and  publication formats are rubbings and manual copies. For  rubbing materials,  people place papers onto the surface of the Oracle Bones, then use Rubbing (with inks) to copy the carved inscriptions. Domain experts can also reproduce (copy) the carved inscriptions by hand, which is named Manual Oracle Bone Inscriptions Copy, referred to as OB manual copies for short. Figure 1  presents examples for both formats, which are actually cases of the new OB duplicates discovered by our model. Comparing the two formats,  manual OBI copies rely on domain knowledge but has no background noises, whereas OBI rubbings often contains substantial noise disturbance, although domain knowledge is not required. Both formats can keep the original sizes of the Oracle Bones, which is not possible when using cameras.  In 2022, the largest collection of manual OBI copies was published [11], for which a large team of OBI researchers invested 10 years to create high-quality manual OBI copies for around 60,000 OBs.
 
 
 With this new collection at hand, in this work we aim to devise a comprehensive framework for discovering OB duplicates at large-scale. Since different domain experts have slightly different copying styles for the same OBIs (such as variations in pen movement, stroke thickness, brush pressure), finding OB duplicates can be essentially formulated as a content-based image retrieval (CBIR) or image matching task.
@@ -33,7 +33,7 @@ Contributions. To our knowledge, this work is among the first technical efforts 
 
 ![Figure 2: Ten groups of new Oracle Bone duplicates discovered by our OBD-Finder model.](./case-10.png)
 
-We also conduct extensive experiments on a large dataset of OB copies.  We compare our model with state-of-the-art CBIR and image matching methods, showing that our model achieves Top-K recall performance comparable to state-of-the-art methods, but with significantly accelerated computational efficiency and substantially reduced GPU memory consumption.  Our model also attains the highest simplified mean reciprocal rank scores for both Top-5 and Top-15 retrieval results, demonstrating that it excels at prioritizing correct matches. 
+We also conduct extensive experiments on a large dataset of OB copies [11].  We compare our model with state-of-the-art CBIR and image matching methods, showing that our model achieves Top-K recall performance comparable to state-of-the-art methods, but with significantly accelerated computational efficiency and substantially reduced GPU memory consumption.  Our model also attains the highest simplified mean reciprocal rank scores for both Top-5 and Top-15 retrieval results, demonstrating that it excels at prioritizing correct matches. 
 
 ------
 
@@ -263,5 +263,5 @@ python Siamese-pytorch/predict.py
 8. Sun, J., et al. "LoFTR: Detector-Free Local Feature Matching with Transformers." *CVPR* 2021.
 9. Jiang, H., et al. "OmniGlue: Generalizable Feature Matching with Foundation Model Guidance." *CVPR* 2024.
 10. Ren, J., et al. "MINIMA: Modality Invariant Image Matching." *CVPR* 2025.
-
+11. Tianshu Huang. "Oracle Bone Inscription Copy Series". *Peking University Press* 2022. 
 ------
