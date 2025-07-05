@@ -1,26 +1,19 @@
-# OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery
+# Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle Bones as a Case Study
 
-## Presentation and Demostration Video
+## Illustration and Demostration Video
+https://www.youtube.com/watch?v=YlRtCDMvd2s
 
-[Illustration and Demonstration Video of OBD-Finder](https://www.youtube.com/watch?v=5QT4f0YIo0Q)
-
-https://www.youtube.com/watch?v=5QT4f0YIo0Q
-
-[![AI-enabled Oracle Bone Duplicates Discovery](https://img.youtube.com/vi/5QT4f0YIo0Q/0.jpg)](https://www.youtube.com/watch?v=5QT4f0YIo0Q)
-
-## arXiv Version (the long version) of this Paper
-
-Please also see the long version of this OBD-Finder paper for AI-enabled Oracle Bone Duplicates Discovery:
-
-[The arXiv version/long version of this OBD-Finder Paper](https://arxiv.org/abs/2505.03836)
+## arXiv Version  of this Paper
 
 https://arxiv.org/abs/2505.03836
 
 ## Introduction
 
-Oracle Bone inscriptions (OBIs) were used in the late Shang Dynasty more than 3000 years ago for divination and recording purposes. But from then on, these Oracle Bones (OBs) had been buried underground for thousands of years, until they were rediscovered in 1899 for containing inscribed ancient Chinese characters, which were named "Oracle Bone inscriptions". Due to drilling and burning before and during divination, and the long-term underground corrosion, as well as excavation, transportation, and circulation after their excavation, about 90% of the OBs have been fragmented and are now scattered in different collections around the world.
+Ancient manuscripts are the key source for ancient language corpora. However, many ancient manuscripts contain duplicates, due to unintentional repeated publication or deliberate forgery. For instance, the Dead Sea Scrolls contain forged fragments, while Oracle Bones (OB) contain both repeated publications and forged ones. Finding  ancient manuscript duplicates  can help identify forgeries, eliminate duplicate fragments and prevent redundant research, while offering the potential to correct erroneous fragment rejoinings. Moreover, it facilitates empirical study on the damage and deterioration of ancient manuscripts  during their circulation.
 
-As precious cultural relics, many OBs were circulated among various collectors and antique dealers in the initial period after their discovery. Limited by communication and dissemination methods at that time, the same OBs might have been repeatedly published in different publications at different times in different countries/regions, which led to the phenomenon of OB duplicates, referring to the fragments being repeatedly published. Some Oracle Bones further fragmented during circulation; on the other hand, as OBI research advanced, some fragmentary OBs might have been rejoined by OBI domain experts and republished again. As such, OB duplicates exhibit both one-to-one and one-to-many image matching relationships. Although domain experts have manually found many duplicates in their research and compilation process, considering the huge cardinality of OB fragments (more than 160,000), AI-enabled OB duplicate discovery becomes imperative.
+In particular, the identification of Oracle Bone  duplicates has been a fundamental research issue in Oracle Bone Inscription (OBI) research. OBI was used in the late Shang Dynasty more than 3000 years ago for divination and recording purposes. But from then on, these Oracle Bones had been buried underground for thousands of years, until they were rediscovered in the year of 1899 for containing inscribed ancient Chinese characters. Due to drilling and burning before and during divination, and the long-term underground corrosion, as well as excavation, transportation, and circulation after their excavation, about 90% of the OBs have been fragmented and are now scattered in different collections around the world.
+
+As precious cultural relics, many Oracle Bones were circulated among various collectors and antique dealers in the initial period after their discovery in 1899. Limited by communication and dissemination methods at that time, the same OBs might have been repeatedly published in different publications at different times in different locations, which led to the phenomenon of OB duplicates, denoting that  the fragments were repeatedly published. Some OBs  further fragmented during circulation; on the other hand, as OBI research advances, some fragmentary OBs might have been rejoined by OBI domain experts and republished again. As such, OB duplicates exhibit both one-to-one and one-to-many image matching relationships. Although domain experts have manually found many duplicates in their research, given the huge cardinality of OB fragments (more than 160,000), AI-enabled OB duplicates discovery becomes imperative.
 
 OBIs are carved writing, their main publication format is rubbing, in which people place a paper onto the surface of the bones, then use Rubbing (with inks) to copy the carved inscriptions. Domain experts can also reproduce (copy) the carved inscriptions by hand, which is named Manual Oracle Bone Inscriptions Copy. Comparing the two formats, the latter (i.e., manual copying) relies on domain knowledge but has no background noises, whereas the former (i.e., rubbing) often contains obvious noise disturbance, although domain knowledge is not required. Both formats can keep the original sizes of the Oracle Bones, which is not possible when using cameras. Until today, OBI rubbings and manual copies remain the main materials for this research. In 2022, the largest collection of manual OBI copies was published, for which a large team of OBI researchers invested 10 years to create high-quality manual OBI copies for around 60,000 OBs.
 
