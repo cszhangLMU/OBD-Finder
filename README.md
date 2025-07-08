@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=YlRtCDMvd2s
 
 ## arXiv Version of this Paper
 
-to be updated. 
+[arXiv](https://arxiv.org/pdf/2505.03836) 
 
 ## Abstract
 
