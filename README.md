@@ -4,11 +4,7 @@ Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle 
 
 ## Illustration and Demostration Video
 
-https://www.youtube.com/watch?v=K4nMb-WqVbI
-
-## arXiv Version of this Paper
-
-[arXiv](https://arxiv.org/pdf/2505.03836) 
+https://youtu.be/qMegVWPOgv8
 
 ## Abstract
 
@@ -265,4 +261,5 @@ python Siamese-pytorch/predict.py
 10. Ren, J., et al. "MINIMA: Modality Invariant Image Matching." *CVPR* 2025.
 11. Tianshu Huang. "Oracle Bone Inscription Copy Series". *Peking University Press* 2022. 
 ------
+
 
