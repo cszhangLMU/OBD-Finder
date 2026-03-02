@@ -6,21 +6,21 @@ Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle 
 
 https://youtu.be/qMegVWPOgv8
 
-## Real-World Depolyment: 63 pairs of newly discovered Oracle Bone duplicate pairs by OBD-Finder
+## Real-World Depolyment: 63 pairs of newly discovered Oracle Bone duplicates found by OBD-Finder
 
 The complete list of 63 newly discovered Oracle Bone duplicate pairs were shared with the Oracle Bone Inscriptions research community and received very positive feedbacks. 
 
-Google Drive for storing the 63 pairs of newly discovered Oracle Bone duplicate pairs:
+Google Drive for storing the 63 pairs of newly discovered Oracle Bone duplicates:
 
 https://drive.google.com/drive/folders/1mWgvvw76nDDTCEUpeSWz-pU2dMymcevP?usp=sharing
 
-Baidu Cloud drive for storing the 63 pairs of newly discovered Oracle Bone duplicate pairs:
+Baidu Cloud drive for storing the 63 pairs of newly discovered Oracle Bone duplicates:
 
  https://pan.baidu.com/s/1HYmJ9XHwO8_Zsm2TdBTZVg?pwd=v099
  
  https://pan.baidu.com/s/14oyyjXzn90QYUFm4L26XrQ?pwd=qtyd
 
-There are two releases (news) related to this real-world deployment (texts are in Chinese):
+There are two releases (news) related to the real-world deployment of OBD-Finder (texts are in Chinese):
 
 https://www.xianqin.org/blog/archives/21693.html
 
@@ -282,6 +282,7 @@ python Siamese-pytorch/predict.py
 10. Ren, J., et al. "MINIMA: Modality Invariant Image Matching." *CVPR* 2025.
 11. Tianshu Huang. "Oracle Bone Inscription Copy Series". *Peking University Press* 2022. 
 ------
+
 
 
 
