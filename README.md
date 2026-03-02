@@ -6,6 +6,27 @@ Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle 
 
 https://youtu.be/qMegVWPOgv8
 
+## Real-World Depolyment: 63 pairs of newly discovered Oracle Bone duplicate pairs by OBD-Finder
+
+The complete list of 63 newly discovered Oracle Bone duplicate pairs were shared with the Oracle Bone Inscriptions research community and received very positive feedbacks. 
+
+Google Drive for storing the 63 pairs of newly discovered Oracle Bone duplicate pairs:
+
+https://drive.google.com/drive/folders/1mWgvvw76nDDTCEUpeSWz-pU2dMymcevP?usp=sharing
+
+Baidu Cloud drive for storing the 63 pairs of newly discovered Oracle Bone duplicate pairs:
+
+ https://pan.baidu.com/s/1HYmJ9XHwO8_Zsm2TdBTZVg?pwd=v099
+ 
+ https://pan.baidu.com/s/14oyyjXzn90QYUFm4L26XrQ?pwd=qtyd
+
+There are two releases (news) related to this real-world deployment (texts are in Chinese):
+
+https://www.xianqin.org/blog/archives/21693.html
+
+https://www.xianqin.org/blog/archives/21938.html
+
+ 
 ## Abstract
 
 Ancient manuscripts are the primary source of ancient linguistic corpora. However, many ancient manuscripts exhibit duplications due to unintentional repeated publication or deliberate forgery. The Dead Sea Scrolls, for example, include counterfeit fragments, whereas Oracle Bones (OB)  contain both republished materials and fabricated specimens. Identifying  ancient manuscript duplicates is of great significance for both archaeological curation and ancient history study.  In this work, we design a progressive OB  duplicate discovery framework that combines unsupervised low-level keypoints matching with high-level text-centric content-based matching to refine and rank the candidate OB duplicates with semantic awareness and interpretability. We compare our model with state-of-the-art content-based image retrieval and image matching methods, showing that our model  yields comparable recall performance and the highest simplified mean reciprocal rank scores for both Top-5 and Top-15 retrieval results, and with significantly accelerated computation efficiency. We have discovered over 60 pairs of new OB duplicates in real-world deployment, which were missed by domain experts for decades. Code, model and real-world results are available at: https://github.com/cszhangLMU/OBD-Finder/.
@@ -261,5 +282,6 @@ python Siamese-pytorch/predict.py
 10. Ren, J., et al. "MINIMA: Modality Invariant Image Matching." *CVPR* 2025.
 11. Tianshu Huang. "Oracle Bone Inscription Copy Series". *Peking University Press* 2022. 
 ------
+
 
 
