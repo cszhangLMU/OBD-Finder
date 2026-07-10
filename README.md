@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=r3Iid2t7iTw
 
 https://huggingface.co/spaces/cszhangai/OBD-Finder
 
-Note: we are using the few service of HuggingFace, with little or no GPU access, while they are usually more than 10k-50k matching comparisons, so the speed will not be fast.
+Note: we are using the few service of HuggingFace, with little or no GPU access, while there are usually more than 10k-50k matching comparisons, so the speed will not be fast.
 
 ## Real-World Depolyment  on Oracle Bone Copies: 63 pairs of newly discovered Oracle Bone duplicates found by OBD-Finder
 
