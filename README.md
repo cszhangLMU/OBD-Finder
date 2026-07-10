@@ -12,7 +12,7 @@ https://huggingface.co/spaces/cszhangai/OBD-Finder
 
 Note: we are using the few service of HuggingFace, with little or no GPU access, while they are usually more than 10k-50k matching comparisons, so the speed will not be fast.
 
-## Real-World Depolyment: 63 pairs of newly discovered Oracle Bone duplicates found by OBD-Finder
+## Real-World Depolyment  on Oracle Bone Copies: 63 pairs of newly discovered Oracle Bone duplicates found by OBD-Finder
 
 The complete list of 63 newly discovered Oracle Bone duplicate pairs were shared with the Oracle Bone Inscriptions research community and received very positive feedbacks. 
 
