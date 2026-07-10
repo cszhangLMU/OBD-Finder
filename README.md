@@ -2,9 +2,15 @@
 
 Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle Bones as a Case Study. 
 
-## Illustration and Demostration Video
+## Illustration and Demostration Video (New)
 
-https://youtu.be/qMegVWPOgv8
+https://www.youtube.com/watch?v=r3Iid2t7iTw
+
+## Online Demostration System (New)
+
+https://huggingface.co/spaces/cszhangai/OBD-Finder
+
+Note: we are using the few service of HuggingFace, with little or no GPU access, while they are usually more than 10k-50k matching comparisons, so the speed will not be fast.
 
 ## Real-World Depolyment: 63 pairs of newly discovered Oracle Bone duplicates found by OBD-Finder
 
@@ -26,6 +32,13 @@ https://www.xianqin.org/blog/archives/21693.html
 
 https://www.xianqin.org/blog/archives/21938.html
 
+## Real-World Depolyment on Rubbings: Oracle Bone duplicates results found by OBD-Finder on Oracle Bone (New)
+
+https://drive.google.com/drive/folders/1DWNiBA_I3BVzQHQ45WFG0hLCOjLcp_1q?usp=sharing
+
+https://www.xianqin.org/blog/archives/24848.html
+
+Note: We do not have the complete ground-truth of Oracle Bone Duplicates on Hebu corpus, thus, our 165 groups of duplicates may contain the duplicates that had been discovered by OBI experts previously. 
  
 ## Abstract
 
