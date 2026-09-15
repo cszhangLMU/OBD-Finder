@@ -2,7 +2,7 @@
 
 Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle Bones as a Case Study. 
 
-## <font color="red"> (New) OBD-Finder2.0 -- 重多多2.0-- 大型通用甲骨校重系统 发布！</font>
+## <font color="red"> (New) OBD-Finder2.0 -- 重多多2.0-- 大型通用甲骨校重系统 发布！（2026年9月12日）</font>
 
 <font color="red">大型通用甲骨校重平台的网址如下：</font>
 
