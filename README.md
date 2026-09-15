@@ -2,6 +2,24 @@
 
 Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery, with Oracle Bones as a Case Study. 
 
+## OBD-Finder2.0 (New)  -- 重多多2.0-- 大型通用甲骨校重系统
+
+https://cszhangai-obd-finder2.hf.space/
+
+先秦网资讯：AI重多多2.0公开发布，发现2648组重片，为世界上最大规模的甲骨校重成果！
+
+https://www.xianqin.org/blog/archives/27586.html
+
+相关校重成果的下载方式（共有6275组甲骨校重成果）
+
+校重成果目录： 
+
+百度网盘： https://pan.baidu.com/s/1ovwn5urTbdajTuNLo9UZkw?pwd=6275
+
+Google Drive:
+
+https://drive.google.com/drive/folders/1t8c6EE5HbivUea8LhRtkmR0_jIe92w-1?usp=sharing
+
 ## Illustration and Demostration Video (New)
 
 https://www.youtube.com/watch?v=r3Iid2t7iTw
